@@ -1,0 +1,44 @@
+﻿[
+  {
+    "name": "Maneesh",
+    "balance": 8501,
+    "pin": 1123,
+    "accountNumber": "12345678"
+  },
+  {
+    "name": "Raj",
+    "balance": 100000,
+    "pin": 2234,
+    "accountNumber": "13345678"
+  },
+  {
+    "name": "Priya",
+    "balance": 100000,
+    "pin": 3234,
+    "accountNumber": "12445678"
+  },
+  {
+    "name": "Ram",
+    "balance": 100000,
+    "pin": 4234,
+    "accountNumber": "12355678"
+  },
+  {
+    "name": "Rani",
+    "balance": 14766,
+    "pin": 5234,
+    "accountNumber": "12345667"
+  },
+  {
+    "name": "Jay",
+    "balance": 100000,
+    "pin": 6234,
+    "accountNumber": "12345677"
+  },
+  {
+    "name": "Divya",
+    "balance": 100000,
+    "pin": 1134,
+    "accountNumber": "12345688"
+  }
+]
